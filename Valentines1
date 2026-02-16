@@ -30,7 +30,7 @@ color:white
 <button style="background-color:green;margin-left:40%;"><a href="" class="yes"> Yes </a> </button>
 
 
-<button style="background-color:red;Margin-left:5%;"><a href="" class="no"> no </a> </button>
+<button style="background-color:red;Margin-left:5%;"><a href="Valentines2.html" class="no"> no </a> </button>
 
 </body>
 </html>
