@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head >
+<title>Valentines</title>
+
+<style>
+.heading { text-align:center;
+Font-family:arial;
+Margin-top:30%;
+font-size:200%;}
+
+.yes {Font-size: 300%;
+text-decoration:none;
+color:white
+}
+
+.no {Font-size: 200%;
+text-decoration:none;
+color:white
+}
+</style>
+</head>
+
+<body>
+<img src="" >
+<div class="heading">
+<h1> Will you be my valentines??</h1>
+</div>
+ 
+<button style="background-color:green;margin-left:40%;"><a href="" class="yes"> Yes </a> </button>
+
+
+<button style="background-color:red;Margin-left:5%;"><a href="" class="no"> no </a> </button>
+
+</body>
+</html>
